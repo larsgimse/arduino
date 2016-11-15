@@ -21,11 +21,11 @@ void loop() {
     delay(10);
   }
   if (analogRead(A4) < 1000) {
-    tone(8, 415, 200); // tone G4
+    tone(8, 392, 200); // tone G4
     delay(10);
   }
   if (analogRead(A5) < 1000) {
-    tone(8, 392, 200); // tone G4
+    tone(8, 440, 200); // tone A4
     delay(10);
   }
 }
