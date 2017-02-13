@@ -1,3 +1,5 @@
+// code with some errors
+
 const int redPin = 11; 
 const int yellowPin = 10; 
 const int greenPin = 9; 
