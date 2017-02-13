@@ -1,6 +1,6 @@
 const int redPin = 11; 
 const int yellowPin = 10; 
-const int greenPin = 9; // 
+const int greenPin = 9; 
 
 void setup(){
   pinMode(redPin, OUTPUT); 
