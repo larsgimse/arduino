@@ -1,4 +1,4 @@
-Some code to use with twitter and arduino. 
+In this folder you find some code to use with twitter and arduino.
 
 Last update: 12 + 3 LED counts twitter. If twitter reach 4096 make 1 lap
 
