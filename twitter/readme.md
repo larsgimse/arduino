@@ -1,4 +1,4 @@
-In this folder you find some arduino code to use with twitter and arduino. Pyhton code on link from Nicholas Bester under.
+In this folder you find some arduino code to use with twitter and arduino. Pyhton code down under.
 
 Last update: 12 + 3 LED counts twitter. If twitter reach 4096 make 1 lap
 
