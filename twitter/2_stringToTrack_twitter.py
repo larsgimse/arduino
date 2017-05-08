@@ -1,4 +1,5 @@
 # Author: Nicholas Bester
+# ReAuthor: Lars Gimse - strip down and add strigToTrack_sub
 # Title: Twitter Stream connection
 # Description: Tracks a string using the Twitter Streaming API
 # Send commands using PySerial to an Arduino
