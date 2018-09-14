@@ -1,3 +1,5 @@
+//source code from https://gist.github.com/jamesotron/766994
+
 const int redPin = 11;
 const int greenPin = 10;
 const int bluePin = 9;
