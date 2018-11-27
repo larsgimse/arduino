@@ -1,7 +1,8 @@
 /* Arduino 256 RGB LEDs Matrix Animation Frame 
  * Using WS2812 LED Strips
  
-Created by Yvan / https://Brainy-Bits.com
+First created by Yvan / https://Brainy-Bits.com
+Reindeer and Marip by me
 
 This code is in the public domain...
 
